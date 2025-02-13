@@ -39,11 +39,11 @@ cd Chatter_A_Chat_App
 
 ```
 
-###🔧 Install Dependencies
+### 🔧 Install Dependencies
 ```bash
 npm install
 ```
-###🏃 Run the Application
+### 🏃 Run the Application
 ```bash
 npm run dev
 ```
@@ -52,11 +52,11 @@ npm run dev
 The application is live at: https://chatter-a-chat-app-1.onrender.com/login
 🔗 Chatter Live Demo https://chatter-a-chat-app-1.onrender.com/login
 
-##📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
 
-###💡 Contributing
+### 💡 Contributing
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
-##🛠️ Built with ❤️ by Prakhar Awasthi
+## 🛠️ Built with ❤️ by Prakhar Awasthi
 
