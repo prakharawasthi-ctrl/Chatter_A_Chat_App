@@ -1,10 +1,12 @@
+
 # 🗨️ Chatter - Real-time Chat Application
 
 Chatter is a real-time chat application that enables users to communicate instantly. Built with modern web technologies, it provides a seamless chat experience with authentication and a responsive UI.
 
 ## 🚀 Features
-- 🔒 **Authentication** using Firebase
-- 💬 **Real-time messaging** powered by WebSockets
+- 🔒 **User Authentication**
+- 💬 **Real-time messaging** powered by WebSockets (Socket.io)
+- 🖼️ **Media Uploads** using Cloudinary
 - 🎨 **Beautiful UI** with Daisy UI & Tailwind CSS
 - 🌐 **Backend** using Node.js & Express.js
 - 🗄️ **Database** with MongoDB for storing messages
@@ -12,9 +14,9 @@ Chatter is a real-time chat application that enables users to communicate instan
 
 ## 🛠️ Tech Stack
 - **Frontend**: React.js, Tailwind CSS, Daisy UI
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js, Socket.io
 - **Database**: MongoDB
-- **Authentication**: Firebase
+- **Media Storage**: Cloudinary
 
 ## 📸 Screenshots
 
