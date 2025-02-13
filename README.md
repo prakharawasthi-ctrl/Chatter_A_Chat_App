@@ -39,9 +39,25 @@ cd Chatter_A_Chat_App
 
 ```
 
+###🔧 Install Dependencies
+bash
+Copy
+Edit
+npm install
+###🏃 Run the Application
+bash
+Copy
+Edit
+npm run dev
+###🌍 Deployment
+The application is live at: https://chatter-a-chat-app-1.onrender.com/login
+🔗 Chatter Live Demo https://chatter-a-chat-app-1.onrender.com/login
 
-### ✅ Changes:
-- **Added deployment link** under a new "🌍 Deployment" section.  
-- **Kept everything else unchanged** as per your request.  
+###📜 License
+This project is open-source and available under the MIT License.
 
-Your `README.md` is now updated and ready to use! 🚀 Let me know if you need any more changes. 😊
+###💡 Contributing
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+##🛠️ Built with ❤️ by Prakhar Awasthi
+
