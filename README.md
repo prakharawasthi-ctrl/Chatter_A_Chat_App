@@ -19,13 +19,16 @@ Chatter is a real-time chat application that enables users to communicate instan
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](https://github.com/prakharawasthi-ctrl/Chatter_A_Chat_App/assets/3cd6a231-eab6-422c-bb9c-054965423a5b)
+![Login Page](https://github.com/user-attachments/assets/7e8e590e-eb82-4ae1-bfdd-fd6f5360ae96)
+
 
 ### 📩 Chat Interface
-![Chat Interface](https://github.com/prakharawasthi-ctrl/Chatter_A_Chat_App/assets/1d156d79-20a0-4a52-aeae-1b5ed1c27dd9)
+![Chat Interface](https://github.com/user-attachments/assets/0a5ba2b4-410e-4f8c-8de2-34ce695fcd5c)
+
 
 ### 📜 User Profile
-![User Profile](https://github.com/prakharawasthi-ctrl/Chatter_A_Chat_App/assets/ba87f2d1-20a9-4f6f-b513-48e86b1fff55)
+![User Profile](https://github.com/user-attachments/assets/1339fa6f-f59f-41c4-9aa8-8f5d0ae0aa40)
+
 
 ## 🎯 Getting Started
 
