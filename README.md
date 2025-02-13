@@ -1,7 +1,6 @@
-
 # 🗨️ Chatter - Real-time Chat Application
 
-Chatter is a real-time chat application that enables users to communicate instantly. Built with modern web technologies, it provides a seamless chat experience with authentication and responsive UI.
+Chatter is a real-time chat application that enables users to communicate instantly. Built with modern web technologies, it provides a seamless chat experience with authentication and a responsive UI.
 
 ## 🚀 Features
 - 🔒 **Authentication** using Firebase
@@ -20,18 +19,17 @@ Chatter is a real-time chat application that enables users to communicate instan
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](https://github.com/user-attachments/assets/3cd6a231-eab6-422c-bb9c-054965423a5b)
+![Login Page](https://github.com/prakharawasthi-ctrl/Chatter_A_Chat_App/assets/3cd6a231-eab6-422c-bb9c-054965423a5b)
 
 ### 📩 Chat Interface
-![Chat Interface](https://github.com/user-attachments/assets/1d156d79-20a0-4a52-aeae-1b5ed1c27dd9)
+![Chat Interface](https://github.com/prakharawasthi-ctrl/Chatter_A_Chat_App/assets/1d156d79-20a0-4a52-aeae-1b5ed1c27dd9)
 
 ### 📜 User Profile
-![User Profile](https://github.com/user-attachments/assets/ba87f2d1-20a9-4f6f-b513-48e86b1fff55)
-
+![User Profile](https://github.com/prakharawasthi-ctrl/Chatter_A_Chat_App/assets/ba87f2d1-20a9-4f6f-b513-48e86b1fff55)
 
 ## 🎯 Getting Started
 
 ### 📥 Clone the Repository
 ```bash
-git clone https://github.com/prakharawasthi-ctrl/chatter.git
-cd chatter
+git clone https://github.com/prakharawasthi-ctrl/Chatter_A_Chat_App.git
+cd Chatter_A_Chat_App
