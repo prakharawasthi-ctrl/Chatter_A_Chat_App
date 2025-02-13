@@ -39,7 +39,7 @@ cd Chatter_A_Chat_App
 
 ```
 
-###🔧 Install Dependencies
+##🔧 Install Dependencies
 bash
 Copy
 Edit
