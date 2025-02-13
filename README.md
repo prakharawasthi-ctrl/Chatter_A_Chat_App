@@ -47,10 +47,10 @@ npm install
 ```bash
 npm run dev
 ```
-##🌍 Deployment
+## 🌍 Deployment
 
-The application is live at: https://chatter-a-chat-app-1.onrender.com/login
-🔗 Chatter Live Demo https://chatter-a-chat-app-1.onrender.com/login
+### 🔗 Chatter Live Demo 
+https://chatter-a-chat-app-1.onrender.com/login
 
 ## 📜 License
 This project is open-source and available under the MIT License.
@@ -58,5 +58,5 @@ This project is open-source and available under the MIT License.
 ### 💡 Contributing
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
-## 🛠️ Built with ❤️ by Prakhar Awasthi
+#### 🛠️ Built with ❤️ by Prakhar Awasthi
 
