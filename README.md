@@ -37,26 +37,11 @@ Chatter is a real-time chat application that enables users to communicate instan
 git clone https://github.com/prakharawasthi-ctrl/Chatter_A_Chat_App.git
 cd Chatter_A_Chat_App
 
-🔧 Install Dependencies
-bash
-Copy
-Edit
-npm install
-🏃 Run the Application
-bash
-Copy
-Edit
-npm run dev
-📜 License
-This project is open-source and available under the MIT License.
-
-💡 Contributing
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
-🔗 Links
-🌍 Live Demo: Chatter App
-📂 Repository: GitHub
-🛠️ Built with ❤️ by Prakhar Awasthi
+```
 
 
+### ✅ Changes:
+- **Added deployment link** under a new "🌍 Deployment" section.  
+- **Kept everything else unchanged** as per your request.  
 
+Your `README.md` is now updated and ready to use! 🚀 Let me know if you need any more changes. 😊
